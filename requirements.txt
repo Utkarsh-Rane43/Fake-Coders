@@ -1,0 +1,9 @@
+speechrecognition 
+pyttsx3 
+wikipedia 
+pyautogui 
+schedule 
+pywhatkit 
+requests 
+psutil 
+shutil
